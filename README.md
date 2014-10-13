@@ -24,7 +24,7 @@ array (size=6)
 3.1.3 functions.php // IP 查询的几个相关操作的函数  
 3.1.4 Runtime.php // 脚本执行时间统计的类  
 3.1.5 separate_ipdata_to_file.php // 切分ip数据大文件(ip.data)的脚本  
-3.1.6 ip.data // ip数据的大文件(18k行数据)  
+3.1.6 ip.data // ip数据的大文件(180k行数据)  
 3.1.7 ip_dir/ // 已经被切分成每个文件1000行的小文件  
 
 ### 4.1 实现方式
